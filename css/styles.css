@@ -58,9 +58,20 @@ body {
 h2 {font-family: 'Gloock', serif;
 }
 
+
 h4 {font-family: 'Nanum Myeongjo', serif;}
 
 a {
-	color: purple;
-}
+	color: purple; }
+
+#mydiv{
+		color:black;
+	
+	}
+
+#mydiv2{color:black;}
+
+.white-text{color: deeppink}
+	
+
 
