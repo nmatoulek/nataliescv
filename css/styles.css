@@ -7,7 +7,7 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color:#8A8A8A;
 	background-color:#FDFDFD;
 }
 
@@ -59,3 +59,8 @@ h2 {font-family: 'Gloock', serif;
 }
 
 h4 {font-family: 'Nanum Myeongjo', serif;}
+
+a {
+	color: purple;
+}
+
