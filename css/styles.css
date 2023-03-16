@@ -8,7 +8,7 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color:#8A8A8A;
-	background-color:#FDFDFD;
+	background-color:#FCF8C6;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -18,7 +18,7 @@ body {
 }
 
 .resume-main {
-	background-color:#FEFEFE;
+	background-color:#FAFAFA;
 }
 
 .resume-aside {
